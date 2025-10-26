@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Postal Panic",
+        "description": "Made some vehicles for Postal Panic",
+        "thumbnail": "https://i.imgur.com/w8jNNpK.png",
+        "type": "commission",
+        "style": "blocky",
+        "price": "15€",
+        "images": [
+            "https://i.imgur.com/iCyxrVA.png",
+            "https://i.imgur.com/bE9kt4H.png",
+            "https://i.imgur.com/3brDjzx.png"
+        ]
+    },
+    {
+        "title": "Work At a Bank",
+        "description": "Some props i made",
+        "thumbnail": "https://i.imgur.com/oT8wXyU.png",
+        "type": "project",
+        "style": "smooth",
+        "price": "10€",
+        "images": [
+            "https://i.imgur.com/oT8wXyU.png"
+        ]
+    }
+]

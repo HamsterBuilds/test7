@@ -1,0 +1,50 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'%3E%3Ctext x='50%25' y='50%25' font-size='100' text-anchor='middle' dy='.3em'%3E🔧%3C/text%3E%3C/svg%3E"
+  },
+  "badges": [
+    {
+      "type": "image",
+      "icon": "https://i.imgur.com/sszML39.png",
+      "tooltip": "Roblguards Builder Of the Year 2025 award"
+    },
+    {
+      "type": "image",
+      "icon": "https://i.imgur.com/TjdhxqM.png",
+      "tooltip": "Roblguards Builder Of the Year 2024 award"
+    }
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "text": "He is AMAZING! Bro building next level! W guy.",
+      "author": "roblguard"
+    },
+    {
+      "stars": 5,
+      "text": "Hamster is a very good builder. He built for me \"Europe tower\" he is a very fair person, stays in touch with you from the start to the end until the request is fullfiled. Urgent situations he is all in. I highly recommend him.",
+      "author": "Altara Project"
+    },
+    {
+      "stars": 5,
+      "text": "I asked for a stud-style map and the result went beyond my expectations! The builder nailed the classic Roblox look while keeping everything clean, optimized, and fun to explore. Communication was clear, friendly, and professional troughout the process. Highly recommend for anyone looking top-quality stud builds!",
+      "author": "Go Studios"
+    }
+    
+  ],
+  "hero": {
+    "title": "Hamster - Roblox Builder",
+    "subtitle": "Creating cheap BUT Good builds!",
+    "stats": {
+      "yearsExperience": "5+",
+      "happyClients": "1+"
+    }
+  },
+  "pricing": {
+    "minEuro": 5,
+    "maxEuro": 20,
+    "minRobux": 200,
+    "maxRobux": 2000
+  }
+}
